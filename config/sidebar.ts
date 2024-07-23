@@ -18,37 +18,37 @@ type SocialMedia = {
 export const SocialMedias: SocialMedia[] = [
   {
     label: 'Twitter',
-    href: 'https://twitter.com/keysl1831',
+    href: 'https://x.com/KVNASHKAPIL',
     icon: FaTwitter,
   },
   {
     label: 'Instagram',
-    href: 'https://www.instagram.com/kllawingco/',
+    href: 'https://www.instagram.com/giant.coder/',
     icon: FaInstagram,
   },
   {
     label: 'LinkedIn',
-    href: 'https://www.linkedin.com/in/marclawingco/',
+    href: 'https://www.linkedin.com/in/algoder/',
     icon: FaLinkedin,
   },
-  {
-    label: 'StackOverflow',
-    href: 'https://stackoverflow.com/users/3867490/keysl',
-    icon: FaStackOverflow,
-  },
+  // {
+  //   label: 'StackOverflow',
+  //   href: 'https://stackoverflow.com/users/3867490/keysl',
+  //   icon: FaStackOverflow,
+  // },
   {
     label: 'Youtube',
-    href: 'https://www.youtube.com/channel/UCV-MiUVsKJrKJKKfUK58nhg',
+    href: 'https://www.youtube.com/@giant.coders',
     icon: FaYoutube,
   },
   {
     label: 'Github',
-    href: 'https://github.com/klawingco',
+    href: 'https://github.com/kvinash/',
     icon: FaGithub,
   },
-  {
-    label: 'Dev.to',
-    href: 'https://dev.to/klawingco',
-    icon: FaDev,
-  },
+  // {
+  //   label: 'Dev.to',
+  //   href: 'https://dev.to/klawingco',
+  //   icon: FaDev,
+  // },
 ]

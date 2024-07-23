@@ -20,15 +20,15 @@ export const Experiences: {
   [key in Company]: CompanyDetail
 } = {
   Deloitte: {
-    name: 'Deloitte',
-    longName: 'Deloitte Consulthing Phils. Delivery Center',
-    subDetail: 'Consulthing Phils. Delivery Center',
-    url: 'https://www2.deloitte.com/',
-    position: 'Software Engineer Consultant',
-    duration: 'Sep 2021 - Present',
+    name: 'Klub',
+    longName: 'Klubworks',
+    subDetail: 'Enabling flexible growth capital for digital SMEs.',
+    url: 'https://www.klubworks.com/',
+    position: 'Technology Lead',
+    duration: 'July 2022 - Present',
     logo: {
-      light: '/worked_at_logos/deloitte/Deloitte_logo_black.png',
-      dark: '/worked_at_logos/deloitte/Deloitte_logo.png',
+      light: '/worked_at_logos/deloitte/klub.jpg',
+      dark: '/worked_at_logos/deloitte/klub.jpg',
     },
     roles: [
       <>
@@ -132,7 +132,7 @@ export const Experiences: {
     duration: 'Nov 2016 - Feb 2020',
     logo: {
       light: '/worked_at_logos/ivp/blotocol_logo-dark.png',
-      dark: '/worked_at_logos/ivp/blotocol-logo-white.png',
+      dark: '/worked_at_logos/ivp/blotocol-logo-white.jpg',
     },
     roles: [
       <>
